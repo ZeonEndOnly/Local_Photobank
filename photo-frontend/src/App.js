@@ -95,7 +95,7 @@ function App() {
         if (err.response && err.response.data && err.response.data.error) {
           setLoginError(err.response.data.error);
         } else {
-          setLoginError("Login failed. Please try again.");
+          setLoginError("unknown error.");
         }
       });
   }
