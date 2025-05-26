@@ -1,4 +1,4 @@
-# 📸 Google Photos Clone – Local Network Edition
+# 📸 Local Photo Bank(A NAS based google photos clone)
 
 A sleek, household-friendly Google Photos alternative that runs on your local network!  
 **Store, organize, and access all your family's photos and videos from any device - all saved securely on a single hard disk.**
